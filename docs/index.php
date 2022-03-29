@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    salut
+    php
 </body>
 </html>
